@@ -19,10 +19,10 @@ $ npm run generate
 
 ## After running the app the main dashboard looks like below
 
-![Dashboard](/static/dashboard.PNG 'Dashboard')
+![Dashboard](/static/dashboard.PNG)
 
 ## The Category filter can be applied using the button group on the top left
 
-![Filter1](/static/category-filter-1.PNG 'Category Filter')
+![Filter1](/static/category-filter-1.PNG)
 
-![Filter2](/static/category-filter-2.PNG 'Category Filter')
+![Filter2](/static/category-filter-2.PNG)
